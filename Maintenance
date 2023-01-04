@@ -8,7 +8,7 @@ header( 'Content-Type: text/html; charset=utf-8' );
 header( 'Retry-After: 30' );
 ?> -->
 
-<!-- doctype html -->
+<!doctype html>
 <html lang="en">
   <head>
     <title>Site Maintenance</title>
